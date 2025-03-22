@@ -18,5 +18,5 @@ A Java-based implementation of the classic **Arkanoid** game, designed with a st
 - Real-time gameplay loop and GUI rendering
 
 
+![image](https://github.com/user-attachments/assets/66c267bc-f20c-4331-8771-9cfc75650e66)
 
-![image](https://github.com/user-attachments/assets/5628ce80-51a1-4009-affd-f9f34bc3b391)
